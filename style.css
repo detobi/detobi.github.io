@@ -33,6 +33,7 @@ canvas {
   left: 50%;
   margin-left: -150px;
   bottom: 40px;
+  font-family: 'Indie Flower', cursive !important;
 }
 .giftbox > div {
   background: #ae68cc;
@@ -50,10 +51,9 @@ canvas {
   content: "Click Me!";
   left: 0;
   bottom: 0;
-  font-size: 24px;
+  font-size: 25px;
   text-align: left;
-  margin-left: 20px;
-  margin-bottom: 10px;
+  margin-left: 30px;
   transform-origin: 0 0;
 }
 .giftbox .cover {
